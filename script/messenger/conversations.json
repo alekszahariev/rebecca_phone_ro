@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "profilePicture": "./assets/messenger/profilepics/kevin.png",
+    "name": "Tati 💲",
+    "lastMessage": "Tati: Mama ta este bolnavă...",
+    "conversation": [
+      { "sender": "1", "message": "Rebecca, șterge imediat pozele alea! Ne faci de râs pe mine și pe toată familia ta. Cum ai putut să faci așa ceva? 😡", "timestamp": "29.01.23", "type": "msg" },
+      { "sender": "1", "message": "./assets/messenger/img/snimkabashta.png", "timestamp": "29.01.23", "type": "img" },
+
+      { "sender": "You", "message": "Ce este în fotografiile mele?", "timestamp": "29.01.23", "type": "msg" },
+
+      { "sender": "You", "message": "Poți să-mi faci o favoare pentru 3.500 de dolari? Te rog. 😊🙃 ", "timestamp": "30.01.23", "type": "msg" },
+      { "sender": "1", "message": "Pentru ce sunt ele? Nu ți le va da mama ta?", "timestamp": "30.01.23", "type": "msg" },
+      { "sender": "You", "message": "Am nevoie de ei, nu pot să iau bani doar de la ea toată viața mea. Nu ecorect.", "timestamp": "30.01.23", "type": "msg" },
+      { "sender": "1", "message": "Te aștept acasă.", "timestamp": "30.01.23", "type": "msg" },
+
+      { "sender": "1", "message": "Peste o săptămână va avea loc un eveniment în onoarea mea. Voi fi premiat. Vei veni, nu-i așa?", "timestamp": "01.02.23", "type": "msg" },
+      { "sender": "You", "message": "Voi veni, da. Dacă nu am de gând să vă „expun”.🙃", "timestamp": "01.02.23", "type": "msg" },
+      { "sender": "1", "message": "Poartă-te frumos și hai să avem o seară plăcută. Nu e nevoie de circuri.", "timestamp": "01.02.23", "type": "msg" },
+      { "sender": "You", "message": "În regulă", "timestamp": "01.02.23", "type": "msg" },
+
+      { "sender": "1", "message": "Mergeți acasă imediat și nu mai expuneți pe toată lumea.😡😡", "timestamp": "04.02.23", "type": "msg" },
+      { "sender": "1", "message": "Mama ta este bolnavă. Du-te acasă chiar acum și nu mai fiatât de încăpățânat. Nu am cuvinte pentru tine.🤦‍♂️", "timestamp": "05.02.23", "type": "msg" }
+
+
+
+
+
+    ]
+  },
+  {
+    "id": 2,
+    "profilePicture": "./assets/messenger/profilepics/linda.png",
+    "name": "Mama 💗",
+    "lastMessage": "Mama: Vă plac toate acestea?",
+    "conversation": [
+      { "sender": "1", "message": "Echo, ce faci?😘", "timestamp": "28.01.23", "type": "msg" },
+      { "sender": "You", "message": "Eu sunt în Barbara", "timestamp": "28.01.23", "type": "msg" },
+      { "sender": "1", "message": "Din nou 😁 vremea de afară este foarte rea", "timestamp": "28.01.23", "type": "msg" },
+      { "sender": "You", "message": "Ei bine, ce să facă pentru el la timp.", "timestamp": "28.01.23", "type": "msg"},
+      { "sender": "1", "message": "Nimic", "timestamp": "28.01.23", "type": "msg" },
+      { "sender": "1", "message": "De ce nu găsesc primele sezoane ale serialului cu fiica lui Klaus?", "timestamp": "28.01.23", "type": "msg" },
+      { "sender": "1", "message": "Ești supărată pe mine?", "timestamp": "28.01.23", "type": "msg" },
+      { "sender": "You", "message": "Abe a obținut o slujbă", "timestamp": "28.01.23", "type": "msg"},
+      { "sender": "1", "message": "Ce părere aveți despre aceste ceasuri?", "timestamp": "29.01.23", "type": "msg" },
+      { "sender": "1", "message": "Eu nu înțeleg", "timestamp": "29.01.23", "type": "msg" },
+      { "sender": "1", "message": "Este frumos?", "timestamp": "29.01.23", "type": "msg" },
+      { "sender": "1", "message": "./assets/messenger/img/watchimg.jpg", "timestamp": "29.01.23", "type": "img" },
+      { "sender": "You", "message": "Aș face-o, da", "timestamp": "29.01.23", "type": "msg"},
+      { "sender": "You", "message": "Am rămas fără bani de buzunar, vrei?😊", "timestamp": "30.01.23", "type": "msg"},
+      { "sender": "1", "message": "Întreabă-l pe tatăl tău.", "timestamp": "30.01.23", "type": "msg" },
+      { "sender": "You", "message": "Știi ce este... de ce nu mi-l dai?", "timestamp": "30.01.23", "type": "msg"},
+      { "sender": "1", "message": "Îți dau una când ajungi acasă.Vrei să ieșim în seara asta ca înainte? Vom mânca pizza și vom vorbi ca femeile 😀", "timestamp": "30.01.23", "type": "msg" },
+      { "sender": "You", "message": "Am multe de învățat, trebuie să recuperez.", "timestamp": "30.01.23", "type": "msg"},
+      { "sender": "1", "message": "Ei bine, știi că te iubesc și poți să-mi spui oricând dacă este ceva ", "timestamp": "30.01.23", "type": "msg" },
+      { "sender": "You", "message": "Da, știu.❤️", "timestamp": "30.01.23", "type": "msg"},
+      { "sender": "1", "message": "De ce nu ai fost la școală de 2 zile?????😤😤😤 ", "timestamp": "01.02.23", "type": "msg" },
+      { "sender": "You", "message": "Am avut teste și nu eram pregătită... Nu puteam să mă duc și să fiu furată.", "timestamp": "01.02.23", "type": "msg"},
+      { "sender": "1", "message": "Și unde te duci cât timp ești încă la școală? Du-te acasă acum!!!. ", "timestamp": "01.02.23", "type": "msg" },
+      { "sender": "You", "message": "Calmează-te un pic", "timestamp": "01.02.23", "type": "msg"},
+      { "sender": "1", "message": "Nu-mi spune să mă calmez și să mă duc acasă chiar acum.", "timestamp": "01.02.23", "type": "msg" },
+
+      { "sender": "1", "message": "Fată, nu te-ai mai dus la școală..... Vrei să-mi faci rău? ", "timestamp": "02.02.23", "type": "msg" },
+      { "sender": "You", "message": "Ți-am spus să te calmezi un pic, nu e nevoie de dramă. O să te prind din urmă.", "timestamp": "02.02.23", "type": "msg"},
+      { "sender": "1", "message": "Nu vă dați seama că vă faceți rău în acest fel?  ", "timestamp": "02.02.23", "type": "msg" },
+      { "sender": "You", "message": "Voi veni acasă când voi dori. ", "timestamp": "02.02.23", "type": "msg"},
+      { "sender": "1", "message": "Asta e tot, nu veți mai primi nimic de la mine.   ", "timestamp": "02.02.23", "type": "msg" },
+      { "sender": "You", "message": "lele cât de speriat sunt ", "timestamp": "02.02.23", "type": "msg"},
+      { "sender": "1", "message": "Veți vedea.  ", "timestamp": "02.02.23", "type": "msg" },
+
+      { "sender": "You", "message": "Vă promit că de luni totul va fi diferit! Am făcut câteva greșeli, dar sunt gata să le repar, îmi pare rău mamă. ❤️ ", "timestamp": "03.02.23", "type": "msg"},
+      { "sender": "1", "message": "Știi că sunt aici pentru tine indiferent de situație. Sper că acestea nu sunt doar cuvinte..❤️❤️  ", "timestamp": "03.02.23", "type": "msg" },
+      { "sender": "1", "message": " Și, desigur, au fost doar cuvinte cum poți să nu vii acasă toată noaptea?", "timestamp": "03.02.23 22:00", "type": "msg" },
+      { "sender": "1", "message": " A venit poliția, vino acasă acum că o să mă înnebunești.", "timestamp": "03.02.23 22:42", "type": "msg" },
+      { "sender": "1", "message": " Rebecca pleacă acum! POLIȚIA TE CAUTĂ! ", "timestamp": "05.02.23 00:02", "type": "msg" },
+      { "sender": "1", "message": "Ce ți-am făcut ca să mă pedepsești așa? Te rog să te controlezi. Vom vorbi și ne vom lămuri, îți promit că voi încerca să te înțeleg. Doar vino aici.", "timestamp": "05.02.23", "type": "msg" },
+      { "sender": "1", "message": "Rebecca, tot orașul te caută. Poliția te caută.Nici nu ai idee ce probleme cauți acum. Îți plac toate astea?", "timestamp": "05.02.23", "type": "msg" }
+
+
+
+
+
+    ]
+  },
+  {
+      "id": 3,
+      "profilePicture": "./assets/messenger/profilepics/lisa.png",
+      "name": "Lissa",
+      "lastMessage": "You: .... sinele tău adevărat. lol haha",
+      "conversation": [
+        { "sender": "Lissa", "message": "Ascultă asta, nemernicule. Să nu îndrăznești să-i mai scrii lui Ian, să nu mă faci să iau măsuri mai extreme.", "timestamp": "02.02.23 23:30", "type": "msg" },
+        { "sender": "You", "message": " Și ce ai de gând să faci 😀", "timestamp": "02.02.23 23:31", "type": "msg" }, 
+        { "sender": "Lissa", "message": "Toată lumea va ști ce faceți voi doi dacă asta nu se termină. Nu ne ruinați familia.", "timestamp": "02.02.23 23:33", "type": "msg" },
+        { "sender": "You", "message": "Nu e vina mea că ești plictisitoare de moarte și soțul tău nu te suportă 😦 . ", "timestamp": "02.02.23 23:33", "type": "msg"},
+        { "sender": "Lissa", "message": "Am să te omor, nimeni mic ce ești.", "timestamp": "02.02.23 23:38", "type": "msg" },
+        { "sender": "You", "message": "aww, ne-am arătat adevăratul nostru sine. haha🤣🤣 . ", "timestamp": "02.02.23 23:38", "type": "msg"}
+
+      ]
+    },
+    {
+      "id": 4,
+      "profilePicture": "./assets/messenger/profilepics/iyn.png",
+      "name": "Ian",
+      "lastMessage": "Ian: Rebeekaaaaaa, nu face nimic stupid.",
+      "conversation": [
+        { "sender": "You", "message": "Vii și tu?", "timestamp": "01.02.23", "type": "msg" },
+        { "sender": "iyn", "message": "Vin să te iau în 15 minute, bine? ", "timestamp": "01.02.23", "type": "msg" },
+        { "sender": "You", "message": "Da", "timestamp": "01.02.23", "type": "msg" },
+        { "sender": "You", "message": " Toată lumea se întreabă unde sunt.", "timestamp": "02.02.23 12:00", "type": "msg"},
+        { "sender": "iyn", "message": "Relaxează-te, nimeni nu va crede că ești cu mine. Voi veni să te iau imediat. ", "timestamp": "02.02.23 12:33", "type": "msg" },
+        { "sender": "You", "message": "Te aștept pe tine😗", "timestamp": "02.02.23 12:33", "type": "msg" },
+        { "sender": "You", "message": "Soția ta mi-a trimis un mesaj. Ce să fac?!", "timestamp": "02.02.23 23:31", "type": "msg" },
+        { "sender": "iyn", "message": "Ți-a scris? Cum așa? Ce v-a scris?", "timestamp": "02.02.23 23:31", "type": "msg" },
+        { "sender": "You", "message": "Lasă-mă să te găsesc sau ne vei da de gol pe amândoi", "timestamp": "02.02.23 23:32", "type": "msg" },
+        { "sender": "iyn", "message": "O să vorbesc cu ea peste puțin timp. Dar trebuie să terminăm cu tine aici. ", "timestamp": "02.02.23 23:35", "type": "msg" },
+        { "sender": "You", "message": "Dar?! Ai spus că nu o mai iubești?!", "timestamp": "02.02.23 23:35", "type": "msg" },
+        { "sender": "iyn", "message": "Rebecca, nu-mi pot părăsi soția pentru tine. Înțeleg.", "timestamp": "02.02.23 23:36", "type": "msg" },
+        { "sender": "You", "message": "Apoi să afle toată lumea ce fel de profesor de engleză avem. Funcționează pentru mine.😃😃 ", "timestamp": "02.02.23 23:40", "type": "msg" },
+        { "sender": "iyn", "message": "Nu mă amenința Rebecca! Nu face asta....", "timestamp": "02.02.23 23:40", "type": "msg" },
+        { "sender": "You", "message": "Leka.😘", "timestamp": "02.02.23 23:40", "type": "msg" },
+        { "sender": "iyn", "message": "Rebekah, nu face nimic stupid!!😡", "timestamp": "02.02.23 23:41", "type": "msg" }
+
+      ]
+    },
+    {
+      "id": 5,
+      "profilePicture": "./assets/messenger/profilepics/barbara.png",
+      "name": "Barbara",
+      "lastMessage": "Barbara: Nu voi mai vorbi cu tine!",
+      "conversation": [
+        { "sender": "barbara", "message": "Ați urmărit serialul Beyond?😮😮😮", "timestamp": "29.01.23", "type": "msg" },
+        { "sender": "You", "message": "Da, a fost brutal, n-am mai văzut așa ceva de ani de zile, sincer. ", "timestamp": "29.01.23", "type": "msg" },
+        { "sender": "barbara", "message": "Ultimul episod pe care îl aștept cu nerăbdare 😄", "timestamp": "29.01.23", "type": "msg" },
+        { "sender": "You", "message": "Vino să scrii când îl vezi pentru a comenta!", "timestamp": "29.01.23", "type": "msg"},
+        { "sender": "You", "message": "Barb, nu am învățat pentru testul de mâine, trebuie să rezolvăm niște chestii.😒", "timestamp": "30.01.23", "type": "msg"},
+        { "sender": "barbara", "message": "Mi-am dat seama deja, am scris autocolantul pe sticla mea de apă hahaha🤣🤣", "timestamp": "30.01.23", "type": "msg"},
+        { "sender": "You", "message": "Lele Nu m-aș fi gândit niciodată la asta, și eu încep să izz.😂😂😂", "timestamp": "30.01.23", "type": "msg"},
+        { "sender": "barbara", "message": "Becks ce faci? Ieșim în oraș astăzi?", "timestamp": "01.02.23", "type": "msg"},
+        { "sender": "barbara", "message": "Ieri nu ai fost la școală, trimite-mi un mesaj, sunt îngrijorată.", "timestamp": "02.02.23", "type": "msg"},
+        { "sender": "You", "message": "Sunt aici, doar că nu am vrut să fiu în preajma nimănui.", "timestamp": "02.02.23", "type": "msg"},
+        { "sender": "barbara", "message": "Ce fac două zile? Nu a fost nimic.", "timestamp": "02.02.23", "type": "msg"},
+        { "sender": "You", "message": "Îți promit că îți voi spune, dar nu este pentru chat.Vom vorbi la școală luni ❤️", "timestamp": "02.02.23", "type": "msg"},
+        { "sender": "barbara", "message": "Bine, ascultă bârfa acum 😀 Sammy Junior te place hahaha", "timestamp": "02.02.23", "type": "msg"},
+        { "sender": "You", "message": "Bietul om, i-am trimis un mesaj acum câteva zile să nu mă mai urmărească ca un psihopat.", "timestamp": "02.02.23", "type": "msg"},
+        { "sender": "You", "message": "/3/9/5/30/22/ ", "timestamp": "03.02.23", "type": "msg"},
+        { "sender": "You", "message": "/24/9/18/19/1/24/1/ ", "timestamp": "03.02.23", "type": "msg"},
+        { "sender": "You", "message": "/5/1/ ", "timestamp": "03.02.23", "type": "msg"},
+        { "sender": "You", "message": "/18/9/ ", "timestamp": "03.02.23", "type": "msg"},
+        { "sender": "You", "message": "/4/15/3/15/17/9/ ", "timestamp": "03.02.23", "type": "msg"},
+        { "sender": "You", "message": "/18/1/13/ ", "timestamp": "03.02.23", "type": "msg"},
+        { "sender": "You", "message": "/3/ ", "timestamp": "03.02.23", "type": "msg"},
+        { "sender": "You", "message": "/18/19/1/30/19/1/ ", "timestamp": "03.02.23", "type": "msg"},
+        { "sender": "You", "message": "/13/20/", "timestamp": "03.02.23", "type": "msg"},
+        { "sender": "barbara", "message": "Și ce s-a întâmplat? ", "timestamp": "03.02.23", "type": "msg"},
+        { "sender": "You", "message": " Vin la școală, îți voi lăsa un bilet în dulap. ", "timestamp": "03.02.23", "type": "msg"},
+        { "sender": "barbara", "message": "Bine, așteaptă-mă la 5:30 p.m. Am terminat.", "timestamp": "03.02.23", "type": "msg"},
+        { "sender": "barbara", "message": "Echo, unde ești?", "timestamp": "03.02.23", "type": "msg"},
+        { "sender": "barbara", "message": " Rebecca, ce se întâmplă?", "timestamp": "03.02.23", "type": "msg"},
+        { "sender": "barbara", "message": "TOȚI SE UITĂ, UNDE SUNT?😡😡😡😡", "timestamp": "04.02.23", "type": "msg"},
+        { "sender": "barbara", "message": "Ai tăi au pus poliția pe picioare, tu nu ai venit acasă - ce se întâmplă?", "timestamp": "04.02.23", "type": "msg"},
+        { "sender": "barbara", "message": "Rebecca, nu știu ce se întâmplă, dar o să te omor când o să te văd!!! Cum ai putut să nu fii acasă timp de două zile?", "timestamp": "05.02.23", "type": "msg"},
+        { "sender": "barbara", "message": "Te rog răspunde-miyyyy😭😭", "timestamp": "05.02.23", "type": "msg"},
+        { "sender": "barbara", "message": "Nu voi mai vorbi cu tine!", "timestamp": "06.02.23", "type": "msg"}
+
+        
+      ] 
+    },
+    {
+      "id": 6,
+      "profilePicture": "./assets/messenger/profilepics/daemon.png",
+      "name": "Damon 💋💋💋",
+      "lastMessage": "Damon: ...Mergeți acasă imediat.",
+      "conversation": [
+        { "sender": "daemon", "message": "Beb mergem în parcare cu ceilalți astăzi?", "timestamp": "28.01.2023 19:34PM", "type": "msg" },
+        { "sender": "You", "message": "Cum ai putea spune întregii tale echipe ce am făcut împreună?", "timestamp": "28.01.2023 19:41PM", "type": "msg" },
+        { "sender": "daemon", "message": "Ce? Eu nu înțeleg?", "timestamp": "28.01.2023 19:41PM", "type": "msg" },
+        { "sender": "You", "message": "Nu te preface, te rog. Nu ți-e rușine să spui lucrurile astea? ", "timestamp": "28.01.2023 19:42PM", "type": "msg"},
+        { "sender": "daemon", "message": "Să ne întâlnim și să vorbim, vă rog.", "timestamp": "28.01.2023 19:45PM", "type": "msg" },
+        { "sender": "You", "message": "Nu vreau să te mai văd deocamdată, noapte bună", "timestamp": "28.01.2023 19:45PM", "type": "msg"},
+        { "sender": "daemon", "message": "Uite, m-am înșelat amarnic, lasă-mă să-ți explic totuși. Vin la tine.", "timestamp": "28.01.2023 19:46PM", "type": "msg" },
+        { "sender": "daemon", "message": "Sunt la parter poți să-mi deschizi?😔😔", "timestamp": "28.01.2023 20:15PM", "type": "msg" },
+        { "sender": "daemon", "message": "Rebecca, e suficient, măcar ieși puțin în față.", "timestamp": "28.01.2023 20:26PM", "type": "msg" },
+        { "sender": "daemon", "message": "Bine, eu plec.", "timestamp": "28.01.2023 20:43PM", "type": "msg" },
+        { "sender": "daemon", "message": "Rebecca deja exagerezi.Nimic nu s-a întâmplat atât de mult încât să mă împiedice să reflectez toată ziua...", "timestamp": "29.01.2023 13:11PM", "type": "msg" },
+        { "sender": "You", "message": "Ești foarte obraznic, sincer.", "timestamp": "29.01.2023 13:43PM", "type": "msg"},
+        { "sender": "daemon", "message": "Dar nimic nu s-a întâmplat atât de mult să înțeleagă... ", "timestamp": "29.01.2023 13:43PM", "type": "msg" },
+        { "sender": "daemon", "message": "Rebecca, ce faci?", "timestamp": "01.02.23", "type": "msg" },
+        { "sender": "daemon", "message": "Suntem împreună? Eu nu înțeleg... ", "timestamp": "02.02.23", "type": "msg" },
+        { "sender": "daemon", "message": "De ce mă eviți așa...", "timestamp": "03.02.23 15:31PM", "type": "msg" },
+        { "sender": "You", "message": "Nu te evit, am multe de învățat și ei nu mă lasă să ies.", "timestamp": "03.02.23 15:33PM", "type": "msg"},
+        { "sender": "daemon", "message": "Simt că nu mă mai iubești. Chiar așa?", "timestamp": "03.02.23 15:33PM", "type": "msg" },
+        { "sender": "You", "message": "Îmi pare rău, dar nu este vina mea", "timestamp": "03.02.23 15:35PM", "type": "msg" },
+        { "sender": "daemon", "message": "Puteai s-o spui mai devreme, nu? De ce m-ai refuzat până acum?", "timestamp": "03.02.23 16:01PM", "type": "msg" },
+        { "sender": "You", "message": "Nu te-am transformat. Am avut nevoie să mă gândesc.", "timestamp": "03.02.23 16:33PM", "type": "msg" },
+        { "sender": "daemon", "message": "Veți regreta, îți promit.", "timestamp": "03.02.23 16:35PM", "type": "msg" },
+        { "sender": "daemon", "message": "Poliția era lângă noi, toți te căutau. Du-te acasă acum...", "timestamp": "04.02.23 21:11PM", "type": "msg" }
+      ]
+    },
+    {
+      "id": 7,
+      "profilePicture": "./assets/messenger/profilepics/sami.png",
+      "name": "Sami Junior",
+      "lastMessage": "Sami: De ce ești mereu atât de nepoliticos?",
+      "conversation": [
+        { "sender": "You", "message": "Mă urmărești?? În fiecare seară după școală te văd că mă urmărești!", "timestamp": "30.01.2023 19:40PM", "type": "msg" },
+        { "sender": "sami", "message": "Eu nu te urmăresc, eu doar trăiesc așa.", "timestamp": "30.01.2023 19:40PM", "type": "msg" },
+        { "sender": "You", "message": "Ei bine, schimbă-ți direcția, bizonule. ", "timestamp": "30.01.2023 19:53PM", "type": "msg" },
+        { "sender": "sami", "message": "De ce ești mereu atât de nepoliticos?", "timestamp": "30.01.2023 19:53PM", "type": "msg"}
+      ]
+    },
+    {
+      "id": 8,
+      "profilePicture": "./assets/messenger/profilepics/keit.png",
+      "name": "Kate Maths",
+      "lastMessage": "....Caroline înțelege că voi fi concediat..",
+      "conversation": [
+        { "sender": "keit", "message": "Ceea ce ai vrut este în dulapul tău, te rog nu mă mai șantaja... Dacă află Carline voi fi concediat..", "timestamp": "01.02.23 8:30", "type": "msg" }
+
+      ]
+      }
+    ]

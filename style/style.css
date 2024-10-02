@@ -1,0 +1,679 @@
+@import url('https://fonts.cdnfonts.com/css/sf-pro-display');
+*{
+    font-family: 'SF Pro Display', sans-serif;
+}
+::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #F5F5F5;
+}
+::-webkit-scrollbar
+{
+	width: 2px;
+	background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar-thumb
+{
+	background-color: #5a5a5a;
+}
+
+body{
+    background:black;
+    margin-top: -50px;
+    overflow: hidden;
+    position: fixed;
+
+}
+
+
+.mobile{
+    border-radius: 50px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    max-width: 400px;
+    min-height: 100vh;
+    background-image: url("../assets/wallpaper.jpg");
+    background-position: center;
+    background-size: cover;
+    box-sizing: border-box;
+    padding: 20px;
+    position: relative;
+    z-index: 1;
+    overflow-y: hidden;
+    justify-content: space-between;
+    background-position:center;
+    transform: scale(0.8);
+}
+
+.mobile-nav{
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-between;
+    z-index: 999;
+    position: fixed;
+    min-width: 365px;
+    max-width: 365px;
+}
+
+.icons i{
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.mobile-apps{
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.icon{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    max-width: 25%;
+    color: white;
+    margin: 12px;
+}
+.mobile-apps .icon img{
+    max-width: 60px;
+    display: block;
+    margin: auto;
+}
+.mobile-apps .icon span{
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.footer{
+    display: flex;
+    margin-top: 110px;
+    background: rgb(255, 255, 255, 0.5);
+    border-radius: 20px;
+}
+.footer .icon{
+    max-width: 65px;
+}
+
+.footer .messenger{
+    border-radius: 20px;
+}
+.app{
+    background: rgb(255, 255, 255);
+    max-width: 400px;
+    min-height: 100vh;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 2;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-sizing: border-box;
+}
+.app-footer a{
+    padding: 20px 40px; 
+    background: rgb(0, 0, 0);
+    text-decoration: none;
+    color: white!important;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.app-body{
+    min-width: 100%;
+}
+
+
+
+/* APPS STYLES */ 
+
+/* PHOTOS */
+.photos-app{
+    display:  flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-height: 80vh;
+    overflow-y: auto;   
+}
+.photos-app img{
+    width: 120px;
+    height: 100px;
+    margin: 1px;
+    cursor: pointer;
+}
+
+.open-image{
+    position: absolute;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding-top: 50px;
+    min-height: 100vh;
+    background: white;
+    min-width: 100%;
+}
+
+.nav-open-image{
+    display: flex;
+    box-sizing: border-box;
+    padding: 20px;
+    background: white;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.image_goes_here img{
+    width: 100%;
+    height: 100%;
+}
+.galleria{
+    width: 100%;
+    height: 100%;
+}
+
+
+/* MESSENGER */
+.messenger-app{
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   min-width: 390px;
+}
+
+.messenger-nav{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    box-sizing: border-box;
+    padding: 10px;
+    align-items: center;
+}
+.messenger-nav span{
+    font-weight: 600;
+}
+.messenger-nav i{
+    color: #00B2FF;
+    font-size: 20px;
+}
+.chats{
+    box-sizing: border-box;
+    padding: 20px;
+    max-height: 80vh;
+    overflow-y: auto;
+}
+
+.person{
+    display: flex;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.person:hover{
+    opacity: 0.7;
+}
+.person img{
+    max-width: 50px;
+    border-radius: 50%;
+}
+.person-info-chat{
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+}
+.person-info-chat .name{
+    font-weight: 600;
+}
+.msg-date{
+    display: flex;
+    color: rgb(156, 156, 156);
+}
+.msg-date .date{
+    margin-left: 5px;
+}
+
+/* MESSAGES */
+.messages{
+    min-width: 390px;
+}
+.messages-nav{
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 10px;
+}
+.messages-nav-left{
+    display: flex;
+    align-items: center;
+}
+.messages-nav-left img{
+    max-width: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.messages-nav-left i{
+    color: #00B2FF;
+}
+.messages-nav-left span{
+    font-size: 15px;
+    font-weight: 600;
+}
+.messages-nav-right{
+    color: #00B2FF;
+    display: flex;
+    align-items: center;
+}
+.messages-nav-right i{
+    margin: 5px;
+    font-size: 18px;
+}
+.messages-chat{
+    display: flex;
+    flex-direction: column;
+
+}
+.back{
+    cursor: pointer;
+}
+
+.discussion {
+	max-width: 400px;
+	margin: 0 auto;
+	display: flex;
+    max-height: 70vh;
+    flex-direction: column;
+    overflow-y: auto;
+    box-sizing: border-box;
+    padding-top: 20px;
+}
+
+.discussion > .bubble {
+	border-radius: 1em;
+	padding: 0.25em 0.75em;
+	margin: 0.0625em;
+	max-width: 50%;
+}
+
+.discussion > .bubble.sender {
+	align-self: flex-start;
+	background-color: cornflowerblue;
+	color: #fff;
+}
+.discussion > .bubble.recipient {
+	align-self: flex-end;
+	background-color: #efefef;
+}
+audio{
+    max-width: 100%;
+}
+.discussion img{
+    max-width: 100%;
+}
+.timestamp{
+    font-size: 11px;
+    opacity: 0.6;
+    display: block;
+}
+
+
+
+/* NOTES APP */
+.notes-app{
+    min-width: 390px;
+    box-sizing: border-box;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    max-height: 80vh;
+    overflow-y: auto;
+}
+.notes-app{
+    display: flex;
+    flex-direction: column;   
+}
+.notes-app p{
+    color: black;
+    opacity: 0.7;
+}
+.note{
+    background: white;
+    box-sizing: border-box;
+    background: rgb(252 255 224);
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 3px;
+    cursor: pointer;
+}
+.note:hover{
+    opacity: 0.8;
+}
+.note span{
+    font-weight: 600;
+}
+.note p{
+    margin: 0;
+    padding: 0;
+}
+.note .date{
+    font-size: 10px;
+    opacity: 0.5;
+    display: block;
+}
+
+
+
+.read-note{
+    min-width: 390px;
+}
+.read-note-nav{
+    display: flex;
+    justify-content: space-between;
+    color: rgb(248, 184, 65);
+    box-sizing: border-box;
+    padding: 10px;
+}
+.read-note-nav-left{
+    display: flex;
+    align-items: center;
+}
+.read-note-nav-left span{
+    margin-left: 10px;
+    font-size: 16px;
+}
+.read-note-nav-right i{
+margin-left: 10px;
+font-size: 15px;
+}
+.read-note-body{
+    box-sizing: border-box;
+    padding: 10px;
+    max-height: 80vh;
+    overflow-y: auto;
+}
+.read-note-body .date{
+    display: block;
+    font-size: 14px;
+    text-align: center;
+    color: gray;
+    margin-bottom: 30px;
+}
+
+
+/* VOICE MEMOS */
+.voicememmos-app{
+    display: flex;
+    flex-direction: column;
+    min-width: 390px;
+    box-sizing: border-box;
+    padding: 10px;
+    max-height: 80vh;
+    overflow-y: auto;
+}
+.voicememmos-app h2{
+    font-size: 25px;
+}
+
+.recording{
+    box-sizing: border-box;
+    border-bottom: 1px solid rgb(233, 233, 233);
+    padding-top: 7px;
+    padding-bottom: 7px;
+    
+}
+.recording-info{
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    color: rgb(168, 167, 167);
+}
+.recording .title{
+    font-weight: 600;
+}
+
+/* SAFARI */
+.safari-app{
+    min-width: 390px;
+    box-sizing: border-box;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    max-height: 80vh;
+    overflow-y: auto;
+}
+.safari-app .search-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: rgb(226, 226, 226);
+    align-items: center;
+    border-radius: 5px;
+}
+.safari-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+    justify-content: center;
+    min-height: 400px;
+}
+
+.searches{
+    margin-top: 40px;
+    background: rgb(226, 226, 226);
+    box-sizing: border-box;
+    padding: 20px;
+    border-radius: 5px;
+    min-width: 100%;
+}
+.search{
+    border-bottom: 1px solid rgb(245, 245, 245);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.school-app{
+    min-width: 390px;
+    box-sizing: border-box;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    max-height: 80vh;
+    overflow-y: auto;
+    background: #fd5e0f;
+    justify-content: center;
+    align-items: center;
+}
+
+.school-app{
+    text-align: center;
+    color: white;
+}
+
+.login-school-app input{
+    border: 1px solid lightgray;
+    margin: 5px;
+    
+}
+.school-app img{
+    max-width:80%;
+    transform: scale(0.8);
+}
+
+
+.teacher{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+.teacher:hover{
+    opacity: 0.8;
+}
+
+.teacher-panel{
+    max-height: 80vh;
+    overflow-y: auto;
+}
+.teacher-panel img{
+    max-width: 100%;
+}
+.teacher-panel .teacher img{
+    max-width: 50%;
+}
+
+.teacher-profile{
+    position: relative;
+    max-height: 80vh;
+    min-height: 80vh;
+    overflow-y: auto;
+}
+
+.teacher-profile img{
+    max-width: 100%;
+}
+.teacher span{
+    background: rgb(223, 255, 226);
+    color: black;
+    box-sizing: border-box;
+    padding: 5px;
+    border-radius: 5px;
+}
+.nav-teacher{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 10px;
+    color: #fd5e0f;
+    font-size: 20px;
+}
+
+.teacher-block{
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 10px;
+}
+.name-position{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.teacher-name{
+    margin-right: 10px;
+    font-weight: 900;
+    color: black;
+}
+.teacher-position{
+    font-size: 14px;
+    opacity: 0.6;
+    font-weight: 600;
+}
+.more-info-teacher{
+    text-decoration: underline;
+    color: blue;
+    font-size: 14px;
+    cursor: pointer;
+    background: lightgray;
+    padding: 5px
+}
+
+
+.techer-profile-info{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    min-width: 380px;
+    position: absolute;
+    top: 380px
+}
+.go-back-teacher{
+    font-size: 30px;
+    background: #fd5e0f;
+    padding: 5px 20px;
+    position:fixed;
+}
+.first-info{
+    background: #fd5e0f;
+    box-sizing: border-box;
+    padding: 10px;
+
+}
+
+.techer-profile-info .teacher-position{
+    color: #EBE7EA;
+    font-weight: 600;
+    font-size: 16px;
+}
+.techer-profile-info .teacher-name{
+    color: #EBE7EA;
+}
+
+.second-info{
+    background: #fd5e0f;
+    margin-top: 20px;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+
+
+/* PHONE APP */
+
+.phoneapp{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 10px;
+    max-height: 80vh;
+    overflow-y: auto;
+}
+.call{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 25px;
+    border-bottom: 1px solid rgb(161, 161, 161);
+}
+.call .missed{
+    color: red;
+}
+.call .taken{
+    color: black;
+}
+.call .number{
+    font-weight: 600;
+    font-size: 18px;
+}
+
+/* GAME */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+
+.game h1 {
+  background: url("https://i.ibb.co/Q9yv5Jk/flappy-bird-set.png") 0% 340px;
+  padding: 1.2rem 0;
+  margin: 0;
+}
+.score-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 6px;
+  background: #5EE270;
+}
+

@@ -1,0 +1,23 @@
+[
+    {
+        "id":"1", "name":"Caroline Scott", "position": "Director", "birthday":"02.05.1978", "img":"./assets/teachers/kerylain.png", "dosie":"Nu", "naet_data":"11.03.2011", "teaching":"Limba engleză"
+    },
+    {
+        "id":"2", "name":"Ian Harding", "position": "Învățător", "birthday":"18.06.1990", "img":"./assets/teachers/iyn.png", "dosie":"Nu", "naet_data":"24.10.2017", "teaching":"Limba engleză"
+    },
+    {
+        "id":"3", "name":"Stephen Johnson", "position": "Învățător", "birthday":"30.12.1976", "img":"./assets/teachers/stivyn.png", "dosie":"Nu", "naet_data":"11.03.2015", "teaching":"Fizică"
+    },
+    {
+        "id":"4", "name":"Ben McKenzie", "position": "Învățător", "birthday":"11.04.1976", "img":"./assets/teachers/ben.png", "dosie":"Nu", "naet_data":"11.03.2016", "teaching":"Istoric"
+    },
+    {
+        "id":"5", "name":"Kate Millen", "position": "Învățător", "birthday":"11.04.1980", "img":"./assets/teachers/keit.png", "dosie":"Nu", "naet_data":"11.03.2009", "teaching":"Matematică"
+    },
+    {
+        "id":"6", "name":"John Dalton", "position": "Curățător", "birthday":"11.10.1971", "img":"./assets/teachers/djon.png", "dosie":"Da", "naet_data":"18.12.2017", "teaching":"-----"
+    },
+    {
+        "id":"7", "name":"Michael Lewis", "position": "Doorman", "birthday":"19.08.1970", "img":"./assets/teachers/maikyl.png", "dosie":"Nu", "naet_data":"11.03.2000", "teaching":"-----"
+    }
+]
