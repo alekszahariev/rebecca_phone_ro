@@ -639,7 +639,7 @@ let teacher_info = []
                     <p>
                     DATA NAȘTERII:  ${teacher_content.birthday} <br><br>
 
-                ДОСИЕ: ${dosie}<br><br>
+                DOSAR: ${dosie}<br><br>
 
                 ANGAJAT LA (DATA):  ${teacher_content.naet_data}<br><br>
 
